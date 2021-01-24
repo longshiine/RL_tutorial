@@ -1,4 +1,5 @@
 # Reinforcement Learning Tutorial
 
 1. GridWorld Example
-  1. Policy Iteration
+  - Policy Iteration
+  - Value Iteration
